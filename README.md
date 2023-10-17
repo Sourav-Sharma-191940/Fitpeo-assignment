@@ -1,8 +1,10 @@
+![fitpeo assignment](https://github.com/Sourav-Sharma-191940/Fitpeo-assignment/assets/60056045/90e645b8-eadd-439f-9ca0-e8b3115ffb45)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
